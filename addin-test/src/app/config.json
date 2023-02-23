@@ -1,0 +1,22 @@
+{
+  "name": "addin test",
+  "supportEmail": "dpizarro@mb-renting.com",
+  "version": "0.0.1",
+  "items": [{
+    "url": "addinTest.html",
+    "path": "DriveAppLink/",
+    "menuName": {
+      "en": "addin test"
+    },
+    "icon": "images/icon.svg"
+  }],
+  
+  "onStartup": true,
+  "onShutdown": true,
+  "dev": {
+    "root": "addinTest",
+    "dist": {
+      "host": "https://www.example.com/myaddin/"
+    }
+  }
+}
