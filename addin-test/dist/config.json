@@ -4,12 +4,12 @@
   "version": "0.0.1",
   "items": [
     {
-      "url": "https://www.example.com/myaddin/addinTest.html",
+      "url": "https://cdn.jsdelivr.net/gh/coffeeconleche/addin-geotab@main/addin-test/dist/addinTest.htmladdinTest.html",
       "path": "DriveAppLink/",
       "menuName": {
         "en": "addin test"
       },
-      "icon": "https://www.example.com/myaddin/images/icon.svg"
+      "icon": "https://cdn.jsdelivr.net/gh/coffeeconleche/addin-geotab@main/addin-test/dist/addinTest.htmlimages/icon.svg"
     }
   ],
   "onStartup": true,
