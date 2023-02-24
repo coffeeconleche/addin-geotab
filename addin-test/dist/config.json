@@ -4,21 +4,14 @@
   "version": "0.0.1",
   "items": [
     {
-      "url": "addinTest.html",
+      "url": "https://www.example.com/myaddin/addinTest.html",
       "path": "DriveAppLink/",
       "menuName": {
         "en": "addin test"
       },
-      "icon": "images/icon.svg"
+      "icon": "https://www.example.com/myaddin/images/icon.svg"
     }
   ],
-
   "onStartup": true,
-  "onShutdown": true,
-  "dev": {
-    "root": "addinTest",
-    "dist": {
-      "host": "https://www.example.com/myaddin/"
-    }
-  }
+  "onShutdown": true
 }
