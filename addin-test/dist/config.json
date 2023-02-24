@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "items": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/coffeeconleche/addin-geotab@main/addin-test/dist/addinTest.htmladdinTest.html",
+      "url": "https://cdn.jsdelivr.net/gh/coffeeconleche/addin-geotab@main/addin-test/dist/addinTest.html",
       "path": "DriveAppLink/",
       "menuName": {
         "en": "addin test"
